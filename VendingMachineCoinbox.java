@@ -1,3 +1,10 @@
+/**
+This is the coinbox for ASYNC 709
+@author luke 
+@author colin
+*/
+
+
 /*
 CSCI 70900 – E. Troudt Fall 2023 
 Design a new class named VendingMachineCoinBox. This should allow you to centralize

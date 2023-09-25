@@ -1,3 +1,10 @@
+/**
+This is the inventory machine for ASYNC 709
+@author luke 
+@author colin
+*/
+
+
 public class VendingMachineInventory {
     private String[] itemNames;
     private int[][] numCosts;
