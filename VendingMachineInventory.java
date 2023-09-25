@@ -11,7 +11,7 @@ public class VendingMachineInventory {
 
     public VendingMachineInventory() {
         itemNames = new String[] {"Doritos", "Oreos", "Snickers", "Water", "Dr. Pepper"};
-        numCosts = new int[][] {{5,5,5,5,5},{1,2,1,2,1}};
+        numCosts = new int[][] {{5,5,5,5,5},{100,200,100,200,100}};
     }
 
     public String toString() {
